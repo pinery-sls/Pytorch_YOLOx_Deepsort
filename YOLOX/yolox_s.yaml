@@ -1,0 +1,3 @@
+YOLOX:
+  MODEL: "yolox-s"
+  WEIGHT: "YOLOX/weights/yolox_s.pth"
