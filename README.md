@@ -10,6 +10,8 @@ Download [ckpt.t7](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb
 
 ### Yolox
 
+Download yolox model file and copy to yolov4/weights/
+
 |Model | weights |
 | ------ | :----: |
 |[YOLOX-s](./exps/default/yolox_s.py) | [onedrive](https://megvii-my.sharepoint.cn/:u:/g/personal/gezheng_megvii_com/EW62gmO2vnNNs5npxjzunVwB9p307qqygaCkXdTO88BLUg?e=NMTQYw)/[github](https://github.com/Megvii-BaseDetection/storage/releases/download/0.0.1/yolox_s.pth) |
