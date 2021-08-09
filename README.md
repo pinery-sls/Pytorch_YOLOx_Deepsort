@@ -10,7 +10,7 @@ Download [ckpt.t7](https://drive.google.com/drive/folders/1xhG0kRH1EX5B9_Iz8gQJb
 
 ### Yolox
 
-Download yolox model file and copy to yolov4/weights/
+Download yolox model file and copy to yolox/weights/
 
 |Model | weights |
 | ------ | :----: |
